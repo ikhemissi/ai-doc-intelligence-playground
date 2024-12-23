@@ -1,6 +1,6 @@
 azure-core==1.32.0
 azure-identity==1.19.0
 python-dotenv==1.0.1
-azure-ai-documentintelligence==1.0.0b2
+azure-ai-documentintelligence==1.0.0
 requests==2.31.0
 markitdown==0.0.1a3
