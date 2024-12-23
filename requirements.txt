@@ -1,6 +1,6 @@
-ipywidgets==8.1.2
-matplotlib==3.8.4
-pandas==2.2.2
-torch==2.3.0
-torchvision==0.18.0
-tqdm==4.66.4
+azure-core==1.32.0
+azure-identity==1.19.0
+python-dotenv==1.0.1
+azure-ai-documentintelligence==1.0.0b2
+requests==2.31.0
+markitdown==0.0.1a3
